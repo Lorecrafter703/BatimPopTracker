@@ -1,0 +1,6 @@
+Tracker:AddLocations("locations/Chapter 1.json")
+Tracker:AddLocations("locations/Chapter 2.json")
+Tracker:AddLocations("locations/Chapter 3.json")
+Tracker:AddLocations("locations/Chapter 4.json")
+Tracker:AddLocations("locations/Chapter 5.json")
+Tracker:AddLocations("locations/Overworld.json")
