@@ -1,0 +1,274 @@
+[
+    {
+        "name": "ch3checkpointbutchergang",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3checkpointbutchergang"
+    },
+    {
+        "name": "ch3borisbone",
+        "type": "toggle",
+        "img": "images/items/ch3bone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3borisbone"
+    },
+    {
+        "name": "ch4books",
+        "type": "toggle",
+        "img": "images/items/ch4books.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch4books"
+    },
+    {
+        "name": "unlockch2",
+        "type": "toggle",
+        "img": "images/items/unlockch2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unlockch2"
+    },
+    {
+        "name": "unlockch5",
+        "type": "toggle",
+        "img": "images/items/unlockch5.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unlockch5"
+    },
+    {
+        "name": "unlockch4",
+        "type": "toggle",
+        "img": "images/items/unlockch4.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unlockch4"
+    },
+    {
+        "name": "ch1wrench",
+        "type": "toggle",
+        "img": "images/items/ch1wrench.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1wrench"
+    },
+    {
+        "name": "ch3tommygun",
+        "type": "toggle",
+        "img": "images/items/ch3tommygun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3tommygun"
+    },
+    {
+        "name": "unlockch1",
+        "type": "toggle",
+        "img": "images/items/unlockch1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unlockch1"
+    },
+    {
+        "name": "ch2keys",
+        "type": "toggle",
+        "img": "images/items/ch2keys.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch2keys"
+    },
+    {
+        "name": "ch2checkpointlostkeys",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch2checkpointlostkeys"
+    },
+    {
+        "name": "ch1doll",
+        "type": "toggle",
+        "img": "images/items/ch1doll.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1doll"
+    },
+    {
+        "name": "ch5checkpointadministration",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch5checkpointadministration"
+    },
+    {
+        "name": "trap",
+        "type": "toggle",
+        "img": "images/items/trap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap"
+    },
+    {
+        "name": "unlockch3",
+        "type": "toggle",
+        "img": "images/items/unlockch3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unlockch3"
+    },
+    {
+        "name": "baconsoup",
+        "type": "toggle",
+        "img": "images/items/baconsoup.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baconsoup"
+    },
+    {
+        "name": "ch4checkpointwarehouse",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch4checkpointwarehouse"
+    },
+    {
+        "name": "ch4bossfightbertrum",
+        "type": "toggle",
+        "img": "images/items/ch4bertrum.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch4bossfightbertrum"
+    },
+    {
+        "name": "ch3checkpointdecisions",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3checkpointdecisions"
+    },
+    {
+        "name": "emptysoupcan",
+        "type": "toggle",
+        "img": "images/items/filler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emptysoupcan"
+    },
+    {
+        "name": "ch1checkpointbasement",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1checkpointbasement"
+    },
+    {
+        "name": "emptyinkwell",
+        "type": "toggle",
+        "img": "images/items/filler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emptyinkwell"
+    },
+    {
+        "name": "ch4checkpointhauntedhouse",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch4checkpointhauntedhouse"
+    },
+    {
+        "name": "ch5checkpointtheinkmachine",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch5checkpointtheinkmachine"
+    },
+    {
+        "name": "brokenbanjostring",
+        "type": "toggle",
+        "img": "images/items/filler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenbanjostring"
+    },
+    {
+        "name": "ch1record",
+        "type": "toggle",
+        "img": "images/items/ch1record.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1record"
+    },
+    {
+        "name": "ch1inkwell",
+        "type": "toggle",
+        "img": "images/items/ch1inkwell.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1inkwell"
+    },
+    {
+        "name": "ch2valve",
+        "type": "toggle",
+        "img": "images/items/ch2valve.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch2valve"
+    },
+    {
+        "name": "ch3toys",
+        "type": "toggle",
+        "img": "images/items/ch3toys.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3toys"
+    },
+    {
+        "name": "ch1book",
+        "type": "toggle",
+        "img": "images/items/ch1book.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1book"
+    },
+    {
+        "name": "ch2checkpointsammysoffice",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch2checkpointsammysoffice"
+    },
+    {
+        "name": "ch1gear",
+        "type": "toggle",
+        "img": "images/items/ch1gear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1gear"
+    },
+    {
+        "name": "ch3checkpointangelsbidding",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3checkpointangelsbidding"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Chapter 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chapter 1.png"
+    },
+    {
+        "name": "Chapter 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chapter 2.png"
+    },
+    {
+        "name": "Chapter 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chapter 3.png"
+    },
+    {
+        "name": "Chapter 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chapter 4.png"
+    },
+    {
+        "name": "Chapter 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chapter 5.png"
+    }
+]

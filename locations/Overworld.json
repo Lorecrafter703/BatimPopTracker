@@ -1,0 +1,880 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Chapter 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ritual Room - CH1 Bacon Soup 0",
+                        "ref": "Chapter 1/Ritual Room/CH1 Bacon Soup 0"
+                    },
+                    {
+                        "name": "Ritual Room - CH1 Complete",
+                        "ref": "Chapter 1/Ritual Room/CH1 Complete"
+                    },
+                    {
+                        "name": "Hallway Closet - CH1 Bacon Soup 1",
+                        "ref": "Chapter 1/Hallway Closet/CH1 Bacon Soup 1"
+                    },
+                    {
+                        "name": "Small Office - CH1 Bacon Soup 2",
+                        "ref": "Chapter 1/Small Office/CH1 Bacon Soup 2"
+                    },
+                    {
+                        "name": "Small Office - CH1 Bacon Soup 3",
+                        "ref": "Chapter 1/Small Office/CH1 Bacon Soup 3"
+                    },
+                    {
+                        "name": "Small Office - CH1 Record",
+                        "ref": "Chapter 1/Small Office/CH1 Record"
+                    },
+                    {
+                        "name": "Small Office - CH1 Radio",
+                        "ref": "Chapter 1/Small Office/CH1 Radio"
+                    },
+                    {
+                        "name": "Ink Valve Room - CH1 Bacon Soup 4",
+                        "ref": "Chapter 1/Ink Valve Room/CH1 Bacon Soup 4"
+                    },
+                    {
+                        "name": "Ink Valve Room - CH1 Bacon Soup 5",
+                        "ref": "Chapter 1/Ink Valve Room/CH1 Bacon Soup 5"
+                    },
+                    {
+                        "name": "Ink Valve Room - CH1 Bacon Soup 6",
+                        "ref": "Chapter 1/Ink Valve Room/CH1 Bacon Soup 6"
+                    },
+                    {
+                        "name": "Ink Valve Room - CH1 Bacon Soup 15",
+                        "ref": "Chapter 1/Ink Valve Room/CH1 Bacon Soup 15"
+                    },
+                    {
+                        "name": "Ink Valve Room - CH1 Doll",
+                        "ref": "Chapter 1/Ink Valve Room/CH1 Doll"
+                    },
+                    {
+                        "name": "Projecter Room - CH1 Bacon Soup 7",
+                        "ref": "Chapter 1/Projecter Room/CH1 Bacon Soup 7"
+                    },
+                    {
+                        "name": "Dresser - CH1 Bacon Soup 8",
+                        "ref": "Chapter 1/Dresser/CH1 Bacon Soup 8"
+                    },
+                    {
+                        "name": "Hallway Shelf - CH1 Bacon Soup 9",
+                        "ref": "Chapter 1/Hallway Shelf/CH1 Bacon Soup 9"
+                    },
+                    {
+                        "name": "Break Room Closet - CH1 Bacon Soup 10",
+                        "ref": "Chapter 1/Break Room Closet/CH1 Bacon Soup 10"
+                    },
+                    {
+                        "name": "Break Room Closet - CH1 Bacon Soup 11",
+                        "ref": "Chapter 1/Break Room Closet/CH1 Bacon Soup 11"
+                    },
+                    {
+                        "name": "Break Room Closet - CH1 Bacon Soup 12",
+                        "ref": "Chapter 1/Break Room Closet/CH1 Bacon Soup 12"
+                    },
+                    {
+                        "name": "Break Room Closet - CH1 Bacon Soup 13",
+                        "ref": "Chapter 1/Break Room Closet/CH1 Bacon Soup 13"
+                    },
+                    {
+                        "name": "Break Room Closet - CH1 Bacon Soup 14",
+                        "ref": "Chapter 1/Break Room Closet/CH1 Bacon Soup 14"
+                    },
+                    {
+                        "name": "Hallway Desk - CH1 Bacon Soup 16",
+                        "ref": "Chapter 1/Hallway Desk/CH1 Bacon Soup 16"
+                    },
+                    {
+                        "name": "Hallway Desk - CH1 Bacon Soup 17",
+                        "ref": "Chapter 1/Hallway Desk/CH1 Bacon Soup 17"
+                    },
+                    {
+                        "name": "Hallway Desk - CH1 Bacon Soup 18",
+                        "ref": "Chapter 1/Hallway Desk/CH1 Bacon Soup 18"
+                    },
+                    {
+                        "name": "Hallway Desk - CH1 Bacon Soup 19",
+                        "ref": "Chapter 1/Hallway Desk/CH1 Bacon Soup 19"
+                    },
+                    {
+                        "name": "Hallway Desk - CH1 Audio Log This Machine",
+                        "ref": "Chapter 1/Hallway Desk/CH1 Audio Log This Machine"
+                    },
+                    {
+                        "name": "Basement Landing - CH1 Bacon Soup 20",
+                        "ref": "Chapter 1/Basement Landing/CH1 Bacon Soup 20"
+                    },
+                    {
+                        "name": "Basement Landing - CH1 Audio Log Dark and Cold",
+                        "ref": "Chapter 1/Basement Landing/CH1 Audio Log Dark and Cold"
+                    },
+                    {
+                        "name": "Break Room - CH1 Book",
+                        "ref": "Chapter 1/Break Room/CH1 Book"
+                    },
+                    {
+                        "name": "Ink Machine Room - CH1 Gear",
+                        "ref": "Chapter 1/Ink Machine Room/CH1 Gear"
+                    },
+                    {
+                        "name": "Animation Studio - CH1 Inkwell",
+                        "ref": "Chapter 1/Animation Studio/CH1 Inkwell"
+                    },
+                    {
+                        "name": "Boris Room - CH1 Wrench",
+                        "ref": "Chapter 1/Boris Room/CH1 Wrench"
+                    },
+                    {
+                        "name": "Boris Room - CH1 theMeatly",
+                        "ref": "Chapter 1/Boris Room/CH1 theMeatly"
+                    },
+                    {
+                        "name": "Power Room - CH1 Checkpoint Basement",
+                        "ref": "Chapter 1/Power Room/CH1 Checkpoint Basement"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2376,
+                        "y": 2058,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Drawing Nook - CH2 Bacon Soup 0",
+                        "ref": "Chapter 2/Drawing Nook/CH2 Bacon Soup 0"
+                    },
+                    {
+                        "name": "Drawing Nook - CH2 theMeatly",
+                        "ref": "Chapter 2/Drawing Nook/CH2 theMeatly"
+                    },
+                    {
+                        "name": "Wally Closet - CH2 Bacon Soup 1",
+                        "ref": "Chapter 2/Wally Closet/CH2 Bacon Soup 1"
+                    },
+                    {
+                        "name": "Wally Closet - CH2 Bacon Soup 2",
+                        "ref": "Chapter 2/Wally Closet/CH2 Bacon Soup 2"
+                    },
+                    {
+                        "name": "Wally Closet - CH2 Bacon Soup 23",
+                        "ref": "Chapter 2/Wally Closet/CH2 Bacon Soup 23"
+                    },
+                    {
+                        "name": "Wally Closet - CH2 Bacon Soup 24",
+                        "ref": "Chapter 2/Wally Closet/CH2 Bacon Soup 24"
+                    },
+                    {
+                        "name": "Wally Closet - CH2 Audio Log Sanctuary Puzzle",
+                        "ref": "Chapter 2/Wally Closet/CH2 Audio Log Sanctuary Puzzle"
+                    },
+                    {
+                        "name": "Entry Shrine - CH2 Bacon Soup 3",
+                        "ref": "Chapter 2/Entry Shrine/CH2 Bacon Soup 3"
+                    },
+                    {
+                        "name": "Entry Shrine - CH2 Bacon Soup 12",
+                        "ref": "Chapter 2/Entry Shrine/CH2 Bacon Soup 12"
+                    },
+                    {
+                        "name": "Entry Shrine - CH2 Bacon Soup 13",
+                        "ref": "Chapter 2/Entry Shrine/CH2 Bacon Soup 13"
+                    },
+                    {
+                        "name": "Entry Shrine - CH2 Audio Log Can I Get an Amen",
+                        "ref": "Chapter 2/Entry Shrine/CH2 Audio Log Can I Get an Amen"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 4",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 4"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 5",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 5"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 6",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 6"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 7",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 7"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 8",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 8"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 9",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 9"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 10",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 10"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 11",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 11"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 14",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 14"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 15",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 15"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 16",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 16"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 17",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 17"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 18",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 18"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 19",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 19"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 20",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 20"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 25",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 25"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 26",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 26"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 27",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 27"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 28",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 28"
+                    },
+                    {
+                        "name": "The Wall - CH2 Bacon Soup 29",
+                        "ref": "Chapter 2/The Wall/CH2 Bacon Soup 29"
+                    },
+                    {
+                        "name": "Sacrifice Room - CH2 Bacon Soup 21",
+                        "ref": "Chapter 2/Sacrifice Room/CH2 Bacon Soup 21"
+                    },
+                    {
+                        "name": "Toy Room - CH2 Bacon Soup 22",
+                        "ref": "Chapter 2/Toy Room/CH2 Bacon Soup 22"
+                    },
+                    {
+                        "name": "Toy Room - CH2 Complete",
+                        "ref": "Chapter 2/Toy Room/CH2 Complete"
+                    },
+                    {
+                        "name": "Sewer Desk - CH2 Bacon Soup 30",
+                        "ref": "Chapter 2/Sewer Desk/CH2 Bacon Soup 30"
+                    },
+                    {
+                        "name": "Sewer Desk - CH2 Audio Log Quiet and Smelly Sewers",
+                        "ref": "Chapter 2/Sewer Desk/CH2 Audio Log Quiet and Smelly Sewers"
+                    },
+                    {
+                        "name": "Recording Hub - CH2 Keys",
+                        "ref": "Chapter 2/Recording Hub/CH2 Keys"
+                    },
+                    {
+                        "name": "Recording Hub - CH2 Audio Log The Pump Switch",
+                        "ref": "Chapter 2/Recording Hub/CH2 Audio Log The Pump Switch"
+                    },
+                    {
+                        "name": "Sewers - CH2 Valve",
+                        "ref": "Chapter 2/Sewers/CH2 Valve"
+                    },
+                    {
+                        "name": "Recording Studio - CH2 Audio Log New Actress",
+                        "ref": "Chapter 2/Recording Studio/CH2 Audio Log New Actress"
+                    },
+                    {
+                        "name": "Upstairs Projecter - CH2 Audio Log Crazy Sammy",
+                        "ref": "Chapter 2/Upstairs Projecter/CH2 Audio Log Crazy Sammy"
+                    },
+                    {
+                        "name": "Office Save Station - CH2 Audio Log Stupid Keys",
+                        "ref": "Chapter 2/Office Save Station/CH2 Audio Log Stupid Keys"
+                    },
+                    {
+                        "name": "Office Save Station - CH2 Checkpoint Lost Keys",
+                        "ref": "Chapter 2/Office Save Station/CH2 Checkpoint Lost Keys"
+                    },
+                    {
+                        "name": "Sammy Office - CH2 Radio",
+                        "ref": "Chapter 2/Sammy Office/CH2 Radio"
+                    },
+                    {
+                        "name": "Sammy Office - CH2 Checkpoint Sammys Office",
+                        "ref": "Chapter 2/Sammy Office/CH2 Checkpoint Sammys Office"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1828,
+                        "y": 1031,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Hall Shelf High - CH3 Bacon Soup 0",
+                        "ref": "Chapter 3/Dark Hall Shelf High/CH3 Bacon Soup 0"
+                    },
+                    {
+                        "name": "Dark Hall Shelf Low - CH3 Bacon Soup 1",
+                        "ref": "Chapter 3/Dark Hall Shelf Low/CH3 Bacon Soup 1"
+                    },
+                    {
+                        "name": "Dark Hall Floor - CH3 Bacon Soup 2",
+                        "ref": "Chapter 3/Dark Hall Floor/CH3 Bacon Soup 2"
+                    },
+                    {
+                        "name": "Dark Hall Floor - CH3 Bacon Soup 3",
+                        "ref": "Chapter 3/Dark Hall Floor/CH3 Bacon Soup 3"
+                    },
+                    {
+                        "name": "Dark Hall Start - CH3 Bacon Soup 4",
+                        "ref": "Chapter 3/Dark Hall Start/CH3 Bacon Soup 4"
+                    },
+                    {
+                        "name": "Dark Hall Start - CH3 Bacon Soup 25",
+                        "ref": "Chapter 3/Dark Hall Start/CH3 Bacon Soup 25"
+                    },
+                    {
+                        "name": "Dark Hall Start - CH3 Bacon Soup 29",
+                        "ref": "Chapter 3/Dark Hall Start/CH3 Bacon Soup 29"
+                    },
+                    {
+                        "name": "Dark Hall Start - CH3 Bacon Soup 30",
+                        "ref": "Chapter 3/Dark Hall Start/CH3 Bacon Soup 30"
+                    },
+                    {
+                        "name": "Stairwell 11-2 - CH3 Bacon Soup 5",
+                        "ref": "Chapter 3/Stairwell 11-2/CH3 Bacon Soup 5"
+                    },
+                    {
+                        "name": "Stairwell 11-2 - CH3 Bacon Soup 6",
+                        "ref": "Chapter 3/Stairwell 11-2/CH3 Bacon Soup 6"
+                    },
+                    {
+                        "name": "Stairwell 11-2 - CH3 Bacon Soup 7",
+                        "ref": "Chapter 3/Stairwell 11-2/CH3 Bacon Soup 7"
+                    },
+                    {
+                        "name": "Stairwell 11-2 - CH3 Bacon Soup 8",
+                        "ref": "Chapter 3/Stairwell 11-2/CH3 Bacon Soup 8"
+                    },
+                    {
+                        "name": "Stairwell 11-2 - CH3 Bacon Soup 9",
+                        "ref": "Chapter 3/Stairwell 11-2/CH3 Bacon Soup 9"
+                    },
+                    {
+                        "name": "Stairwell 11-2 - CH3 Bacon Soup 10",
+                        "ref": "Chapter 3/Stairwell 11-2/CH3 Bacon Soup 10"
+                    },
+                    {
+                        "name": "Stairwell 11-1 - CH3 Bacon Soup 11",
+                        "ref": "Chapter 3/Stairwell 11-1/CH3 Bacon Soup 11"
+                    },
+                    {
+                        "name": "Stairwell 11-1 - CH3 Radio",
+                        "ref": "Chapter 3/Stairwell 11-1/CH3 Radio"
+                    },
+                    {
+                        "name": "Level P Desk - CH3 Bacon Soup 12",
+                        "ref": "Chapter 3/Level P Desk/CH3 Bacon Soup 12"
+                    },
+                    {
+                        "name": "Stairwell K - CH3 Bacon Soup 13",
+                        "ref": "Chapter 3/Stairwell K/CH3 Bacon Soup 13"
+                    },
+                    {
+                        "name": "Level P Elevator - CH3 Bacon Soup 14",
+                        "ref": "Chapter 3/Level P Elevator/CH3 Bacon Soup 14"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 15",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 15"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 16",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 16"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 17",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 17"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 18",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 18"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 19",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 19"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 20",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 20"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 21",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 21"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 32",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 32"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 34",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 34"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 35",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 35"
+                    },
+                    {
+                        "name": "Stairwell P-2 - CH3 Bacon Soup 37",
+                        "ref": "Chapter 3/Stairwell P-2/CH3 Bacon Soup 37"
+                    },
+                    {
+                        "name": "Alice Back Room - CH3 Bacon Soup 22",
+                        "ref": "Chapter 3/Alice Back Room/CH3 Bacon Soup 22"
+                    },
+                    {
+                        "name": "Level 11 Crate - CH3 Bacon Soup 23",
+                        "ref": "Chapter 3/Level 11 Crate/CH3 Bacon Soup 23"
+                    },
+                    {
+                        "name": "Alice Torture Room - CH3 Bacon Soup 24",
+                        "ref": "Chapter 3/Alice Torture Room/CH3 Bacon Soup 24"
+                    },
+                    {
+                        "name": "Alice Torture Room - CH3 Audio Log Lunch with Joey",
+                        "ref": "Chapter 3/Alice Torture Room/CH3 Audio Log Lunch with Joey"
+                    },
+                    {
+                        "name": "Level P Back - CH3 Bacon Soup 26",
+                        "ref": "Chapter 3/Level P Back/CH3 Bacon Soup 26"
+                    },
+                    {
+                        "name": "Level P Back - CH3 Bacon Soup 27",
+                        "ref": "Chapter 3/Level P Back/CH3 Bacon Soup 27"
+                    },
+                    {
+                        "name": "Level P Back - CH3 Bacon Soup 28",
+                        "ref": "Chapter 3/Level P Back/CH3 Bacon Soup 28"
+                    },
+                    {
+                        "name": "Level P Back - CH3 theMeatly",
+                        "ref": "Chapter 3/Level P Back/CH3 theMeatly"
+                    },
+                    {
+                        "name": "Level 11 Table - CH3 Bacon Soup 31",
+                        "ref": "Chapter 3/Level 11 Table/CH3 Bacon Soup 31"
+                    },
+                    {
+                        "name": "Level K Desk - CH3 Bacon Soup 33",
+                        "ref": "Chapter 3/Level K Desk/CH3 Bacon Soup 33"
+                    },
+                    {
+                        "name": "Level K Desk - CH3 Bacon Soup 36",
+                        "ref": "Chapter 3/Level K Desk/CH3 Bacon Soup 36"
+                    },
+                    {
+                        "name": "Safehouse Toilet - CH3 Bacon Soup 38",
+                        "ref": "Chapter 3/Safehouse Toilet/CH3 Bacon Soup 38"
+                    },
+                    {
+                        "name": "Level K Toy Machine - CH3 Audio Log Crooked Smile",
+                        "ref": "Chapter 3/Level K Toy Machine/CH3 Audio Log Crooked Smile"
+                    },
+                    {
+                        "name": "Level K Toy Machine - CH3 Checkpoint Decisions",
+                        "ref": "Chapter 3/Level K Toy Machine/CH3 Checkpoint Decisions"
+                    },
+                    {
+                        "name": "Level K Toy Machine - CH3 Lever Challenge 1",
+                        "ref": "Chapter 3/Level K Toy Machine/CH3 Lever Challenge 1"
+                    },
+                    {
+                        "name": "Level K Toy Machine - CH3 Lever Challenge 2",
+                        "ref": "Chapter 3/Level K Toy Machine/CH3 Lever Challenge 2"
+                    },
+                    {
+                        "name": "Level K Toy Machine - CH3 Lever Challenge 3",
+                        "ref": "Chapter 3/Level K Toy Machine/CH3 Lever Challenge 3"
+                    },
+                    {
+                        "name": "Level K Demon Path - CH3 Audio Log Time to Believe",
+                        "ref": "Chapter 3/Level K Demon Path/CH3 Audio Log Time to Believe"
+                    },
+                    {
+                        "name": "Level K Angel Path - CH3 Audio Log Everything is Coming Apart",
+                        "ref": "Chapter 3/Level K Angel Path/CH3 Audio Log Everything is Coming Apart"
+                    },
+                    {
+                        "name": "Level K Useless Hallway - CH3 Audio Log Ink Pressure",
+                        "ref": "Chapter 3/Level K Useless Hallway/CH3 Audio Log Ink Pressure"
+                    },
+                    {
+                        "name": "Level 9 Shelf - CH3 Audio Log Cutting Corners",
+                        "ref": "Chapter 3/Level 9 Shelf/CH3 Audio Log Cutting Corners"
+                    },
+                    {
+                        "name": "Level 11 Barrel - CH3 Audio Log Crack a Smile",
+                        "ref": "Chapter 3/Level 11 Barrel/CH3 Audio Log Crack a Smile"
+                    },
+                    {
+                        "name": "Level 9 Boarded Room - CH3 Audio Log The Genius Upstairs",
+                        "ref": "Chapter 3/Level 9 Boarded Room/CH3 Audio Log The Genius Upstairs"
+                    },
+                    {
+                        "name": "Level 14 - CH3 Audio Log Looking for Trouble",
+                        "ref": "Chapter 3/Level 14/CH3 Audio Log Looking for Trouble"
+                    },
+                    {
+                        "name": "Stairwell P-1 - CH3 Audio Log Man of Ideas",
+                        "ref": "Chapter 3/Stairwell P-1/CH3 Audio Log Man of Ideas"
+                    },
+                    {
+                        "name": "Level 9 Dropbox - CH3 Checkpoint Angels Bidding",
+                        "ref": "Chapter 3/Level 9 Dropbox/CH3 Checkpoint Angels Bidding"
+                    },
+                    {
+                        "name": "Level 9 Dropbox - CH3 Checkpoint Butcher Gang",
+                        "ref": "Chapter 3/Level 9 Dropbox/CH3 Checkpoint Butcher Gang"
+                    },
+                    {
+                        "name": "Level 9 Dropbox - CH3 Tommy Gun",
+                        "ref": "Chapter 3/Level 9 Dropbox/CH3 Tommy Gun"
+                    },
+                    {
+                        "name": "Level 9 Dropbox - CH3 Complete",
+                        "ref": "Chapter 3/Level 9 Dropbox/CH3 Complete"
+                    },
+                    {
+                        "name": "Safehouse Spawn - CH3 Boris Bone",
+                        "ref": "Chapter 3/Safehouse Spawn/CH3 Boris Bone"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 853,
+                        "y": 518,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Warehouse - CH4 Bacon Soup 0",
+                        "ref": "Chapter 4/Warehouse/CH4 Bacon Soup 0"
+                    },
+                    {
+                        "name": "Warehouse - CH4 Bulls Eye",
+                        "ref": "Chapter 4/Warehouse/CH4 Bulls Eye"
+                    },
+                    {
+                        "name": "Warehouse - CH4 Call the Milk Man",
+                        "ref": "Chapter 4/Warehouse/CH4 Call the Milk Man"
+                    },
+                    {
+                        "name": "Warehouse - CH4 Wasting Time",
+                        "ref": "Chapter 4/Warehouse/CH4 Wasting Time"
+                    },
+                    {
+                        "name": "Warehouse - CH4 Audio Log Playing Games",
+                        "ref": "Chapter 4/Warehouse/CH4 Audio Log Playing Games"
+                    },
+                    {
+                        "name": "Warehouse - CH4 Checkpoint Warehouse",
+                        "ref": "Chapter 4/Warehouse/CH4 Checkpoint Warehouse"
+                    },
+                    {
+                        "name": "Warehouse - CH4 Checkpoint Haunted House",
+                        "ref": "Chapter 4/Warehouse/CH4 Checkpoint Haunted House"
+                    },
+                    {
+                        "name": "Locked Room - CH4 Bacon Soup 1",
+                        "ref": "Chapter 4/Locked Room/CH4 Bacon Soup 1"
+                    },
+                    {
+                        "name": "Locked Room - CH4 theMeatly",
+                        "ref": "Chapter 4/Locked Room/CH4 theMeatly"
+                    },
+                    {
+                        "name": "Bertrum Entrance - CH4 Bacon Soup 2",
+                        "ref": "Chapter 4/Bertrum Entrance/CH4 Bacon Soup 2"
+                    },
+                    {
+                        "name": "Bertrum Entrance - CH4 Bacon Soup 3",
+                        "ref": "Chapter 4/Bertrum Entrance/CH4 Bacon Soup 3"
+                    },
+                    {
+                        "name": "Bertrum Arena - CH4 Bacon Soup 4",
+                        "ref": "Chapter 4/Bertrum Arena/CH4 Bacon Soup 4"
+                    },
+                    {
+                        "name": "Bertrum Arena - CH4 Bacon Soup 10",
+                        "ref": "Chapter 4/Bertrum Arena/CH4 Bacon Soup 10"
+                    },
+                    {
+                        "name": "Bertrum Arena - CH4 Bertrum Boss",
+                        "ref": "Chapter 4/Bertrum Arena/CH4 Bertrum Boss"
+                    },
+                    {
+                        "name": "Bertrum Arena - CH4 Audio Log Bertrums Reveal",
+                        "ref": "Chapter 4/Bertrum Arena/CH4 Audio Log Bertrums Reveal"
+                    },
+                    {
+                        "name": "Boris Arena - CH4 Bacon Soup 5",
+                        "ref": "Chapter 4/Boris Arena/CH4 Bacon Soup 5"
+                    },
+                    {
+                        "name": "Boris Arena - CH4 Brute Boris Boss",
+                        "ref": "Chapter 4/Boris Arena/CH4 Brute Boris Boss"
+                    },
+                    {
+                        "name": "Boris Arena - CH4 Complete",
+                        "ref": "Chapter 4/Boris Arena/CH4 Complete"
+                    },
+                    {
+                        "name": "Elevator - CH4 Bacon Soup 6",
+                        "ref": "Chapter 4/Elevator/CH4 Bacon Soup 6"
+                    },
+                    {
+                        "name": "R and D Entrance - CH4 Bacon Soup 7",
+                        "ref": "Chapter 4/R and D Entrance/CH4 Bacon Soup 7"
+                    },
+                    {
+                        "name": "R and D Entrance - CH4 Bacon Soup 8",
+                        "ref": "Chapter 4/R and D Entrance/CH4 Bacon Soup 8"
+                    },
+                    {
+                        "name": "R and D - CH4 Bacon Soup 9",
+                        "ref": "Chapter 4/R and D/CH4 Bacon Soup 9"
+                    },
+                    {
+                        "name": "R and D - CH4 Audio Log Mechanical Demon",
+                        "ref": "Chapter 4/R and D/CH4 Audio Log Mechanical Demon"
+                    },
+                    {
+                        "name": "Projectionist Upstairs - CH4 Bacon Soup 11",
+                        "ref": "Chapter 4/Projectionist Upstairs/CH4 Bacon Soup 11"
+                    },
+                    {
+                        "name": "Projectionist Entrance - CH4 Bacon Soup 12",
+                        "ref": "Chapter 4/Projectionist Entrance/CH4 Bacon Soup 12"
+                    },
+                    {
+                        "name": "Broken Car - CH4 Bacon Soup 13",
+                        "ref": "Chapter 4/Broken Car/CH4 Bacon Soup 13"
+                    },
+                    {
+                        "name": "Library - CH4 Bacon Soup 14",
+                        "ref": "Chapter 4/Library/CH4 Bacon Soup 14"
+                    },
+                    {
+                        "name": "Library - CH4 Audio Log Behind Closed Doors",
+                        "ref": "Chapter 4/Library/CH4 Audio Log Behind Closed Doors"
+                    },
+                    {
+                        "name": "Ink Spawner - CH4 Bacon Soup 15",
+                        "ref": "Chapter 4/Ink Spawner/CH4 Bacon Soup 15"
+                    },
+                    {
+                        "name": "Stairwell - CH4 Bacon Soup 16",
+                        "ref": "Chapter 4/Stairwell/CH4 Bacon Soup 16"
+                    },
+                    {
+                        "name": "Chest - CH4 Bacon Soup 17",
+                        "ref": "Chapter 4/Chest/CH4 Bacon Soup 17"
+                    },
+                    {
+                        "name": "Colossal Wonders - CH4 Bacon Soup 18",
+                        "ref": "Chapter 4/Colossal Wonders/CH4 Bacon Soup 18"
+                    },
+                    {
+                        "name": "Colossal Wonders - CH4 Audio Log Colossal Wonders",
+                        "ref": "Chapter 4/Colossal Wonders/CH4 Audio Log Colossal Wonders"
+                    },
+                    {
+                        "name": "Trashed Office - CH4 Audio Log Indiscernible",
+                        "ref": "Chapter 4/Trashed Office/CH4 Audio Log Indiscernible"
+                    },
+                    {
+                        "name": "Projectionist Downstairs - CH4 Audio Log Turn it Off",
+                        "ref": "Chapter 4/Projectionist Downstairs/CH4 Audio Log Turn it Off"
+                    },
+                    {
+                        "name": "Bridge - CH4 Radio",
+                        "ref": "Chapter 4/Bridge/CH4 Radio"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 877,
+                        "y": 840,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Safehouse - CH5 Bacon Soup 0",
+                        "ref": "Chapter 5/Safehouse/CH5 Bacon Soup 0"
+                    },
+                    {
+                        "name": "Safehouse - CH5 Bacon Soup 1",
+                        "ref": "Chapter 5/Safehouse/CH5 Bacon Soup 1"
+                    },
+                    {
+                        "name": "Safehouse - CH5 Bacon Soup 2",
+                        "ref": "Chapter 5/Safehouse/CH5 Bacon Soup 2"
+                    },
+                    {
+                        "name": "Safehouse - CH5 Bacon Soup 3",
+                        "ref": "Chapter 5/Safehouse/CH5 Bacon Soup 3"
+                    },
+                    {
+                        "name": "Admin Maze End - CH5 Bacon Soup 4",
+                        "ref": "Chapter 5/Admin Maze End/CH5 Bacon Soup 4"
+                    },
+                    {
+                        "name": "Admin Maze End - CH5 Bacon Soup 5",
+                        "ref": "Chapter 5/Admin Maze End/CH5 Bacon Soup 5"
+                    },
+                    {
+                        "name": "Admin Maze End - CH5 Bacon Soup 6",
+                        "ref": "Chapter 5/Admin Maze End/CH5 Bacon Soup 6"
+                    },
+                    {
+                        "name": "Shore - CH5 Sammy Lawrence Boss",
+                        "ref": "Chapter 5/Shore/CH5 Sammy Lawrence Boss"
+                    },
+                    {
+                        "name": "Gent Office - CH5 Audio Log Office Report",
+                        "ref": "Chapter 5/Gent Office/CH5 Audio Log Office Report"
+                    },
+                    {
+                        "name": "Admin Maze Two - CH5 Audio Log Chocolate Cake",
+                        "ref": "Chapter 5/Admin Maze Two/CH5 Audio Log Chocolate Cake"
+                    },
+                    {
+                        "name": "Admin Maze One - CH5 Audio Log The Big Picture",
+                        "ref": "Chapter 5/Admin Maze One/CH5 Audio Log The Big Picture"
+                    },
+                    {
+                        "name": "Admin Maze Three - CH5 Audio Log Thousands of Souls",
+                        "ref": "Chapter 5/Admin Maze Three/CH5 Audio Log Thousands of Souls"
+                    },
+                    {
+                        "name": "Joey Office - CH5 Audio Log Bringing Alice to Life",
+                        "ref": "Chapter 5/Joey Office/CH5 Audio Log Bringing Alice to Life"
+                    },
+                    {
+                        "name": "Joey Office - CH5 Radio",
+                        "ref": "Chapter 5/Joey Office/CH5 Radio"
+                    },
+                    {
+                        "name": "Bendy Arena - CH5 Audio Log Bendys End",
+                        "ref": "Chapter 5/Bendy Arena/CH5 Audio Log Bendys End"
+                    },
+                    {
+                        "name": "Bendy Arena - CH5 Complete",
+                        "ref": "Chapter 5/Bendy Arena/CH5 Complete"
+                    },
+                    {
+                        "name": "Admin Maze Side - CH5 theMeatly",
+                        "ref": "Chapter 5/Admin Maze Side/CH5 theMeatly"
+                    },
+                    {
+                        "name": "Admin Fall - CH5 Checkpoint Administration",
+                        "ref": "Chapter 5/Admin Fall/CH5 Checkpoint Administration"
+                    },
+                    {
+                        "name": "Ink Lake - CH5 Checkpoint The Ink Machine",
+                        "ref": "Chapter 5/Ink Lake/CH5 Checkpoint The Ink Machine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1616,
+                        "y": 2299,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]
